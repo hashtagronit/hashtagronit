@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Tic Tac Toe Game.**
 
-- 👯 I’m looking for help with other developers working on above mentioned Tech-Stack. **.**
+- 👯 I’m looking for help with other developers working on below mentioned Tech-Stack. **.**
 
 - 🌱 I’m currently learning Android Development **.**
 
