@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashtagronit&label=Profile%20views&color=0e75b6&style=flat" alt="hashtagronit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ronit1947115" target="blank"><img src="https://img.shields.io/twitter/follow/ronit1947115?logo=twitter&style=for-the-badge" alt="ronit1947115" /></a> </p>
 
 - 🔭 You can ask me about Competitive Programming, Data Structures and Algorithms, MERN stack development and Tensorflow.js. **.**
 
