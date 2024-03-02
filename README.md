@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ronit Raj 👋</h1>
 <h3 align="center">I'm a Learner, Hustler and Aspiring Software Developer!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashtagronit&label=Profile%20views&color=0e75b6&style=flat" alt="hashtagronit" /> </p>
+
 
 
 - 🔭 You can ask me about Competitive Programming, Data Structures and Algorithms, MERN stack development and Tensorflow.js. **.**
