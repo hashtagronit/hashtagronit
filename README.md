@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Ronit9450@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ShJNSjwVlyt3E7IY7WpxRa92wIlPM8tH/view?usp=drive_link](https://drive.google.com/file/d/1ShJNSjwVlyt3E7IY7WpxRa92wIlPM8tH/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15FzubL59xWcTpmynejBjUXVhdPxW18-G/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
