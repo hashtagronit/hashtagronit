@@ -5,10 +5,10 @@
   <a href="https://linkedin.com/in/hashtagronit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:ronit9450@gmail.com">
+  <a href="mailto:ronit9450@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://hashtagronit.github.io/Portfolio/">
+  <a href="https://hashtagronit.github.io/ronny.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel" />
   </a>
   <a href="https://drive.google.com/file/d/105_o7Zcg_cTf5LOIfTeT8riBfAqdMmJM/view" target="_blank">
