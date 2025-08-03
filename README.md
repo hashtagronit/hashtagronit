@@ -1,24 +1,15 @@
 <h1 align="center">Hi there, I'm Ronit Raj 👋</h1>
 <h3 align="center">Full Stack Developer | Open to Full-Time Opportunities (2025 Graduate)</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/hashtagronit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:ronit9450@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://hashtagronit.github.io/ronny.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel" />
-  </a>
-  <a href="https://drive.google.com/file/d/105_o7Zcg_cTf5LOIfTeT8riBfAqdMmJM/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white" />
-  </a>
-    
-  <a href="https://leetcode.com/ronit9450" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hashtagronit)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronit9450@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://hashtagronit.github.io/ronny.dev/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/105_o7Zcg_cTf5LOIfTeT8riBfAqdMmJM/view)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ronit9450)
+
+</div>
 
 ---
 
@@ -50,23 +41,13 @@
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/hashtagronit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ronit9450@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/hashtagronit" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/ronit9450" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/hashtagronit" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+
+[![Linkedin link](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashtagronit)
+[![mail link](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronit9450@gmail.com)
+[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hashtagronit)
+[![leetcode profile link](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ronit9450)
+[![gfg profile link](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]((https://auth.geeksforgeeks.org/user/hashtagronit))
+
 
 ---
 
